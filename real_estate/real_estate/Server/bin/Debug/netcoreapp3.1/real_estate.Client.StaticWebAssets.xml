@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Client/bin/Debug/netstandard2.1/wwwroot/" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="/Users/binhnx/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/3.2.1/build/../staticwebassets/" />
+</StaticWebAssets>

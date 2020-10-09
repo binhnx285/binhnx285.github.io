@@ -1,0 +1,9 @@
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/bin/Debug/netstandard2.1/real_estate.Shared.deps.json
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/bin/Debug/netstandard2.1/real_estate.Shared.dll
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/bin/Debug/netstandard2.1/real_estate.Shared.pdb
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.csprojAssemblyReference.cache
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.AssemblyInfoInputs.cache
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.AssemblyInfo.cs
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.csproj.CoreCompileInputs.cache
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.dll
+/Volumes/DATA/Projects/Web/binhnx285.github.io/real_estate/real_estate/Shared/obj/Debug/netstandard2.1/real_estate.Shared.pdb
